@@ -1,0 +1,8 @@
+.card-footer{
+    background-color: blue;
+}
+.card{
+    display: block;
+    margin: auto;
+    width: 80%;
+}
